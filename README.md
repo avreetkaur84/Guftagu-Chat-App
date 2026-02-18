@@ -29,7 +29,7 @@
 
 * Upload and share images within chats via Cloudinary
 
-### Multiple Authentication Methods
+#### Multiple Authentication Methods
 
 * Sign in or sign up using email, GitHub, Google, or Twitter
 
