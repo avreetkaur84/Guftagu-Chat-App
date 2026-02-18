@@ -6,26 +6,26 @@
 
 ## Features
 
-### Real-Time Messaging
+#### Real-Time Messaging
 
 * Instant one-to-one chat
 * Real-time message delivery and updates
 
-### Group Conversations
+#### Group Conversations
 
 * Create and manage group chats
 * Multi-user communication with dynamic group management
 
-### User Profiles
+#### User Profiles
 
 * Update name and profile image
 * Personalized user experience
 
-### Live Online Status
+#### Live Online Status
 
 * Track active users in real-time
 
-### Image Sharing
+#### Image Sharing
 
 * Upload and share images within chats via Cloudinary
 
